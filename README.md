@@ -1,1 +1,1 @@
-# Olio-ohjelmoinnin-perusteet-harjoitusty-
+# Olio-ohjelmoinnin-perusteet-practical assignment
